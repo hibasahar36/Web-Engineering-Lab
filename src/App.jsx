@@ -8,7 +8,7 @@ function App() {
   return (
     <Box sx={{ display: 'flex', flexDirection: 'column', minHeight: '100vh' }}>
       <CssBaseline />
-      <Navbar />
+      {/* <Navbar /> */}
       <Box component="main" sx={{ flexGrow: 1 }}>
         <Hero />
         <Features />
