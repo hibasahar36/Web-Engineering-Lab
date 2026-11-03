@@ -1,5 +1,5 @@
 import { CssBaseline, Box } from '@mui/material';
-import Navbar from './components/navbar';
+// import Navbar from './components/navbar';
 import Hero from './components/Hero';
 import Features from './components/Features';
 import Footer from './components/Footer';

@@ -1,7 +1,6 @@
 import { AppBar, Button } from '@mui/material';
 
 export default function Navbar() {
-    // this is the top bar
     return (
         <AppBar position="static" style={{ backgroundColor: 'darkblue', padding: '10px' }}>
             <div style={{ display: 'flex' }}>
